@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: f56e5a4f7eef83a4b8a89ff2fde5136f
+timeCreated: 1613835435
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackTop
+    100002: Bottom
+    100004: BottomPart
+    100006: FanBack
+    100008: Front_glass
+    100010: FrontLow
+    100012: //RootNode
+    100014: LeftPart1
+    100016: Logoplate
+    100018: Mainframe_Chiller_Cover
+    100020: Part_Static
+    100022: Part_to_Open
+    100024: Right_cover
+    100026: RightPart1
+    100028: Side_plastic
+    100030: Top_cover
+    100032: TopPart1
+    400000: BackTop
+    400002: Bottom
+    400004: BottomPart
+    400006: FanBack
+    400008: Front_glass
+    400010: FrontLow
+    400012: //RootNode
+    400014: LeftPart1
+    400016: Logoplate
+    400018: Mainframe_Chiller_Cover
+    400020: Part_Static
+    400022: Part_to_Open
+    400024: Right_cover
+    400026: RightPart1
+    400028: Side_plastic
+    400030: Top_cover
+    400032: TopPart1
+    2100000: open_part_2_low1
+    2100002: open_part_1_low1
+    2100004: outer_part_2_low1
+    2100006: outer_part_4_low1
+    2100008: outer_part_5_low1
+    2100010: outer_part_6_low1
+    2300000: BackTop
+    2300002: Bottom
+    2300004: BottomPart
+    2300006: FanBack
+    2300008: Front_glass
+    2300010: FrontLow
+    2300012: LeftPart1
+    2300014: Logoplate
+    2300016: Mainframe_Chiller_Cover
+    2300018: Right_cover
+    2300020: RightPart1
+    2300022: Side_plastic
+    2300024: Top_cover
+    2300026: TopPart1
+    3300000: BackTop
+    3300002: Bottom
+    3300004: BottomPart
+    3300006: FanBack
+    3300008: Front_glass
+    3300010: FrontLow
+    3300012: LeftPart1
+    3300014: Logoplate
+    3300016: Mainframe_Chiller_Cover
+    3300018: Right_cover
+    3300020: RightPart1
+    3300022: Side_plastic
+    3300024: Top_cover
+    3300026: TopPart1
+    4300000: Side_plastic
+    4300002: Right_cover
+    4300004: Top_cover
+    4300006: RightPart1
+    4300008: Logoplate
+    4300010: TopPart1
+    4300012: LeftPart1
+    4300014: FanBack
+    4300016: BackTop
+    4300018: Bottom
+    4300020: BottomPart
+    4300022: FrontLow
+    4300024: Mainframe_Chiller_Cover
+    4300026: Front_glass
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

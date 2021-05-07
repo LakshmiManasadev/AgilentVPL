@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 517afdf654737a441a4c592f4070ec52
+timeCreated: 1613835424
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Analytical_Head_Assembly
+    100002: Belt_Needle_Station
+    100004: Cover_needle_station
+    100006: Fan_Sleeve
+    100008: //RootNode
+    100010: Metering_Device_Standard
+    100012: Piston_Assy
+    100014: Transport_Protection
+    400000: Analytical_Head_Assembly
+    400002: Belt_Needle_Station
+    400004: Cover_needle_station
+    400006: Fan_Sleeve
+    400008: //RootNode
+    400010: Metering_Device_Standard
+    400012: Piston_Assy
+    400014: Transport_Protection
+    2100000: small_parts
+    2100002: Cover_transport_protection
+    2100004: fan2
+    2100006: pasted__lambert2
+    2100008: Cover_transport_protection1
+    2100010: lambert6
+    2100012: Analytical_Head_Assembly1
+    2300000: Analytical_Head_Assembly
+    2300002: Belt_Needle_Station
+    2300004: Cover_needle_station
+    2300006: Fan_Sleeve
+    2300008: Metering_Device_Standard
+    2300010: Piston_Assy
+    2300012: Transport_Protection
+    3300000: Analytical_Head_Assembly
+    3300002: Belt_Needle_Station
+    3300004: Cover_needle_station
+    3300006: Fan_Sleeve
+    3300008: Metering_Device_Standard
+    3300010: Piston_Assy
+    3300012: Transport_Protection
+    4300000: Belt_Needle_Station
+    4300002: Cover_needle_station
+    4300004: Fan_Sleeve
+    4300006: Piston_Assy
+    4300008: Transport_Protection
+    4300010: Metering_Device_Standard
+    4300012: Analytical_Head_Assembly
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Analytical_Head_Assembly1
+    second: {fileID: 2100000, guid: 219d5aefb579dd4428f7846474699a88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover_transport_protection
+    second: {fileID: 2100000, guid: 967413c84c590e14483f92288e93b623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover_transport_protection1
+    second: {fileID: 2100000, guid: 3204078179a483f459aab917ea7b5470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fan2
+    second: {fileID: 2100000, guid: 219d5aefb579dd4428f7846474699a88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 967413c84c590e14483f92288e93b623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert2
+    second: {fileID: 2100000, guid: 3204078179a483f459aab917ea7b5470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: small_parts
+    second: {fileID: 2100000, guid: 219d5aefb579dd4428f7846474699a88, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
